@@ -7,10 +7,10 @@ cv:
       username: sherifgerges
 
   sections:
-    summary:
-      - Human geneticist working at the intersection of statistical genetics, single-cell genomics, and protein structure. My research integrates large-scale genetics with structural modeling to uncover mechanisms driving neuropsychiatric disorders, with a focus on using genetics to discover novel biology for drug discovery.
+    Summary:
+      - bullet: Human geneticist working at the intersection of statistical genetics, single-cell genomics, and protein structure. My research integrates large-scale genetics with structural modeling to uncover mechanisms driving neuropsychiatric disorders, with a focus on using genetics to discover novel biology for drug discovery.
 
-    education:
+    Education:
       - institution: Harvard Medical School
         area: Genetics and Genomics
         degree: PhD
@@ -30,7 +30,7 @@ cv:
         start_date: 2008
         end_date: 2010
 
-    experience:
+    Experience:
       - company: Broad Institute of MIT and Harvard
         position: Postdoctoral Researcher
         start_date: 2025
@@ -87,28 +87,19 @@ cv:
           - Co-developed a stochastic block model simulating the evolution of modular biological networks, applied to yeast proteomics, mouse brain connectivity, and the C. elegans connectome
           - Modeled a 94-protein fat-regulation network in yeast, showing small-world (Watts-Strogatz) topology and modular organization supported by genetic and pharmacological validation
 
-    selected_talks:
-      - name: American Society of Human Genetics (ASHG)
-        date: 2019-2021
-        highlights:
-          - Human single-cell transcriptomes identify cell types and states relevant to brain-related complex traits
-      - name: World Congress of Psychiatric Genetics (invited talk; oral talk finalist)
-        date: 2021
-        highlights:
-          - An atlas of human cell-type transcriptomes and their roles in schizophrenia
-      - name: 6th Neurological Disorders Summit (plenary talk)
-        date: 2020
-        highlights:
-          - Human single-cell transcriptomes identify cell types and states relevant to brain-related complex traits
+    Selected Talks:
+      - bullet: "**American Society of Human Genetics (ASHG), 2019-2021** - Human single-cell transcriptomes identify cell types and states relevant to brain-related complex traits"
+      - bullet: "**World Congress of Psychiatric Genetics, 2021** (invited talk; oral talk finalist) - An atlas of human cell-type transcriptomes and their roles in schizophrenia"
+      - bullet: "**6th Neurological Disorders Summit, 2020** (plenary talk) - Human single-cell transcriptomes identify cell types and states relevant to brain-related complex traits"
 
-    honors_and_awards:
-      - name: Princeton University IP Accelerator Award
-        date: 2023
-      - name: Nucleate-Petri VC Startup Winner ($200,000 venture funding award)
-        date: 2022
-      - name: John Maraganore Scientific Entrepreneurship Award (semi-finalist)
-        date: 2022
-      - name: Harvard Innovation Lab Award
-        date: 2022
-      - name: BioNJ BioPartnering Company Presentation Award
-        date: 2021
+    Honors & Awards:
+      - label: "2023"
+        details: Princeton University IP Accelerator Award
+      - label: "2022"
+        details: Nucleate-Petri VC Startup Winner ($200,000 venture funding award)
+      - label: "2022"
+        details: John Maraganore Scientific Entrepreneurship Award (semi-finalist)
+      - label: "2022"
+        details: Harvard Innovation Lab Award
+      - label: "2021"
+        details: BioNJ BioPartnering Company Presentation Award
