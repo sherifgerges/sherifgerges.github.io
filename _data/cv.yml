@@ -7,9 +7,6 @@ cv:
       username: sherifgerges
 
   sections:
-    Summary:
-      - bullet: Human geneticist working at the intersection of statistical genetics, single-cell genomics, and protein structure. My research integrates large-scale genetics with structural modeling to uncover mechanisms driving neuropsychiatric disorders, with a focus on using genetics to discover novel biology for drug discovery.
-
     Education:
       - institution: Harvard Medical School
         area: Genetics and Genomics
@@ -17,14 +14,12 @@ cv:
         start_date: 2017
         end_date: 2025
         highlights:
-          - "Advisors: Mark Daly and Steve McCarroll"
+          - "Advisors: Drs. Mark Daly & Steve McCarroll"
       - institution: Montclair State University
-        area: Molecular Biology; minors in Computer Science and Mathematics
+        area: Molecular Biology; minors in Computer Science & Mathematics (Magna Cum Laude)
         degree: BS
         start_date: 2010
         end_date: 2013
-        highlights:
-          - Magna Cum Laude
       - institution: German University in Cairo, Egypt
         area: Pharmaceutical Sciences (transferred)
         start_date: 2008
@@ -35,57 +30,43 @@ cv:
         position: Postdoctoral Researcher
         start_date: 2025
         end_date: present
-        location: Cambridge, MA
         highlights:
-          - Labs of Mark Daly and Steve McCarroll
-          - Developing structure-based statistical methods for interpreting rare missense variation in neuropsychiatric disease, validated with cryo-EM
+          - "Advisors: Drs. Mark Daly & Steve McCarroll"
 
       - company: Harvard Medical School
-        position: PhD Student
+        position: Graduate Student
         start_date: 2017
         end_date: 2025
-        location: Boston, MA
         highlights:
-          - "Thesis advisors: Mark Daly and Steve McCarroll"
-          - Developed a multi-omic strategy integrating large-scale single-cell transcriptomics, proteomics, and human genetics to uncover genes and pathways implicated in neuropsychiatric disorders, with emphasis on schizophrenia and autism spectrum disorders
-          - Developed a statistical method that leverages AlphaFold3-predicted protein structures to reveal non-random mutation clustering and infer disease mechanisms at the domain level, demonstrating a powerful predictor of missense variant effects and an orthogonal tool for variant prioritization (manuscript in preparation)
-          - Initiated and led a multi-institutional collaboration co-designing CRISPR-based cellular models and protein-based biochemical assays to test missense variants from exome studies of schizophrenia and ASD, coordinating the labs of Mark Daly, Steve McCarroll, and Hilary Finucane (Broad Institute), Poul Nissen (Aarhus University), and Jonathan Weissman (MIT)
-          - Collaborated on a high-throughput droplet-based barcoding strategy recording RNA co-occurrence across thousands of individual synapses, revealing transcriptomic compartments that organize synaptic biology and are enriched for neuropsychiatric genetic signal (manuscript in preparation)
-          - Collaborated on integrative genetic analyses demonstrating that variation in cis-regulatory sequences of granulocytes and monocytes accounts for a substantial proportion of tuberculosis heritability
-          - Collaborated with the Autism Sequencing Consortium on single-cell transcriptomic expression patterns of newly identified ASD genes and variant prioritization
+          - "Thesis advisors: Drs. Mark Daly & Steve McCarroll"
 
       - company: Acurasset Therapeutics
         position: Co-founder
         start_date: 2022
         end_date: present
         highlights:
-          - Co-founded with Professor Alexander Ploss, using advanced HBV infection models to identify small-molecule inhibitors of a previously unexploited step in the viral lifecycle
-          - Hired a cross-functional team, including a contract research organization and a medicinal chemist from Harvard's Therapeutics Initiative, to advance the chemical development program
-          - Lead all fundraising and operations; raised over $500,000 in venture capital and non-dilutive grants
+          - Co-founded with Prof. Alexander Ploss; raised over $500,000 in venture capital and non-dilutive grants
 
       - company: Third Rock Ventures
         position: Computational Consultant
         start_date: 2020
         end_date: 2021
         highlights:
-          - Lead computational consultant for the founding team of an early-stage venture in immuno-oncology and neuroimmune disease (now Asher Bio)
-          - Built a statistical pipeline processing large transcriptomic datasets to identify highly specific single-cell RNA-seq cell-surface markers across indications
-          - Work contributed to Asher's lead program, AB248, an engineered IL-2 immunotherapy selectively targeting CD8+ effector T cells
+          - Lead computational consultant for the founding team of Asher Bio
 
       - company: Princeton University
-        position: Research Assistant, lab of Alexander Ploss
+        position: Research Assistant
         start_date: 2014
         end_date: 2016
         highlights:
-          - Molecular cloning, cell culture, and viral production to engineer hepatitis B, C, and D virus strains capable of infecting humanized mouse models
+          - "Advisor: Prof. Alexander Ploss"
 
       - company: California Institute of Technology
-        position: Research Assistant, lab of Kai Zinn
+        position: Research Assistant
         start_date: 2012
         end_date: 2014
         highlights:
-          - Co-developed a stochastic block model simulating the evolution of modular biological networks, applied to yeast proteomics, mouse brain connectivity, and the C. elegans connectome
-          - Modeled a 94-protein fat-regulation network in yeast, showing small-world (Watts-Strogatz) topology and modular organization supported by genetic and pharmacological validation
+          - "Advisor: Prof. Kai Zinn"
 
     Selected Talks:
       - bullet: "**American Society of Human Genetics (ASHG), 2019-2021** - Human single-cell transcriptomes identify cell types and states relevant to brain-related complex traits"
