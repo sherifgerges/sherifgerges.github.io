@@ -53,3 +53,8 @@ body {
 .cv a.btncv {
   font-size: 1rem;
 }
+
+/* Override the CV plugin's inline-pinned entry text sizes */
+.cv [style*="font-size"] {
+  font-size: 1.3rem !important;
+}
