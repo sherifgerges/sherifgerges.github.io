@@ -58,3 +58,8 @@ body {
 .cv [style*="font-size"] {
   font-size: 1.3rem !important;
 }
+
+/* Larger date badges on CV timeline */
+.cv .badge {
+  font-size: 20px;
+}
