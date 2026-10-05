@@ -39,3 +39,17 @@ body {
 .profile {
   width: 45%;
 }
+
+/* CV page font sizes */
+.cv {
+  font-size: 1.15em;
+}
+.cv p.location,
+.cv td.department,
+.cv td.list-group-name,
+.cv td.list-group-level,
+.cv td.list-group-school,
+.cv p.list-group-time,
+.cv a.btncv {
+  font-size: 1rem;
+}
