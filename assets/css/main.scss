@@ -56,3 +56,7 @@ body {
 .cv .list-group-item [style*="font-size"] {
   font-size: 1.3rem !important;
 }
+/* Honors (label/details) entries render in .card-text, not .list-group-item */
+.cv .card-text {
+  font-size: 1.3rem !important;
+}
