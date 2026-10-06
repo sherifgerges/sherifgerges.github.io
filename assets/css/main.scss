@@ -34,44 +34,25 @@
 
 /* ---- Site customizations (Sherif) ---- */
 body {
-  font-size: 2rem;
+  font-size: 1.3rem;
 }
 .profile {
   width: 45%;
 }
 
-/* CV page font sizes */
-.cv {
-  font-size: 1.15em;
-}
+/* One uniform size for all CV text */
+.cv,
+.cv .badge,
+.cv .list-group-item,
+.cv table.table-cv td,
+.cv table.table-cv th,
 .cv p.location,
 .cv td.department,
 .cv td.list-group-name,
 .cv td.list-group-level,
 .cv td.list-group-school,
 .cv p.list-group-time,
-.cv a.btncv {
-  font-size: 1rem;
-}
-
-/* Override the CV plugin's inline-pinned entry text sizes */
-.cv [style*="font-size"] {
-  font-size: 1.3rem !important;
-}
-
-/* Larger date badges on CV timeline */
-.cv .badge {
-  font-size: 20px;
-}
-
-/* Talks and Honors text slightly larger than other entries */
-.cv .list-group-item,
+.cv [style*="font-size"],
 .cv .list-group-item [style*="font-size"] {
-  font-size: 27px !important;
-}
-
-/* Smaller contact-information block */
-.cv table.table-cv td,
-.cv table.table-cv th {
-  font-size: 18px;
+  font-size: 1.3rem !important;
 }
