@@ -1,12 +1,16 @@
 cv:
   name: Sherif Gerges
-  location: Cambridge, MA
+  location: Analytic and Translational Genetics Unit, Massachusetts General Hospital, Richard B. Simches Research Center, 185 Cambridge Street, Boston, MA 02114
   email: sherif_gerges@g.harvard.edu
   social_networks:
     - network: GitHub
       username: sherifgerges
 
   sections:
+    Address:
+      - label: "MGH"
+        details: Analytic and Translational Genetics Unit, Richard B. Simches Research Center, 185 Cambridge Street, Boston, MA 02114
+
     Education:
       - institution: Harvard Medical School
         area: Genetics and Genomics
