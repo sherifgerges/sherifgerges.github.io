@@ -69,3 +69,9 @@ body {
 .cv .list-group-item [style*="font-size"] {
   font-size: 33px !important;
 }
+
+/* Smaller contact-information block */
+.cv table.table-cv td,
+.cv table.table-cv th {
+  font-size: 22px;
+}
