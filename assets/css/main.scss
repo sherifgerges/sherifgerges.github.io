@@ -40,23 +40,17 @@ body {
   width: 45%;
 }
 
-/* One uniform size for all CV text */
+/* Every element inside the CV, same size — no exceptions */
 .cv,
-.cv .badge,
-.cv .list-group-item,
-.cv table.table-cv td,
-.cv table.table-cv th,
-.cv p.location,
-.cv td.department,
-.cv td.list-group-name,
-.cv td.list-group-level,
-.cv td.list-group-school,
-.cv p.list-group-time,
-.cv [style*="font-size"],
-.cv .list-group-item [style*="font-size"] {
+.cv * {
   font-size: 1.3rem !important;
 }
-/* Honors (label/details) entries render in .card-text, not .list-group-item */
-.cv .card-text {
-  font-size: 1.3rem !important;
+
+/* Section headings stay larger */
+.cv h1,
+.cv h2,
+.cv h3,
+.cv .card-title,
+.cv .post-title {
+  font-size: 2rem !important;
 }
