@@ -63,3 +63,9 @@ body {
 .cv .badge {
   font-size: 20px;
 }
+
+/* Talks and Honors text slightly larger than other entries */
+.cv .list-group-item,
+.cv .list-group-item [style*="font-size"] {
+  font-size: 33px !important;
+}
