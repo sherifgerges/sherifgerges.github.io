@@ -12,10 +12,10 @@ cv:
       - institution: Harvard Medical School
         area: Genetics and Genomics
         degree: PhD
-        start_date: 2017
         end_date: 2025
         highlights:
           - "Advisors: Drs. Mark Daly & Steve McCarroll"
+          - "Thesis: [From Cell Type to Structure: A Multiscale Framework for Discovering Psychiatric Genes, Pathways and Mechanisms](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=RPi2kgoAAAAJ&sortby=pubdate&citation_for_view=RPi2kgoAAAAJ:kNdYIx-mwKoC)"
       - institution: Montclair State University
         area: Molecular Biology; minors in Computer Science & Mathematics (Magna Cum Laude)
         degree: BS
