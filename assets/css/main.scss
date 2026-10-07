@@ -40,7 +40,7 @@ body {
   width: 45%;
 }
 
-/* Every element inside the CV, same size — no exceptions */
+/* Every element inside the CV, same size */
 .cv,
 .cv * {
   font-size: 1.3rem !important;
@@ -54,6 +54,7 @@ body {
 .cv .post-title {
   font-size: 2rem !important;
 }
+
 /* Degree / position titles larger */
 .cv .title {
   font-size: 1.6rem !important;
@@ -65,16 +66,6 @@ body {
   color: inherit !important;
 }
 
-/* Plugin renders Experience first; put Education above it */
-.cv {
-  display: flex;
-  flex-direction: column;
-}
-.cv > a.anchor { order: -1; }
-.cv > div { order: 3; }
-.cv > div:nth-of-type(1) { order: 1; }  /* contact card */
-.cv > div:nth-of-type(3) { order: 2; }  /* education card */
-
 /* Plugin hardcodes Experience first; reorder by section anchor */
 .cv {
   display: flex;
@@ -82,68 +73,16 @@ body {
 }
 .cv > a.anchor { order: -1; }
 .cv > div { order: 9; }
-.cv > div:first-child { order: 1; }       /* contact */
+.cv > div:first-child { order: 1; }   /* contact */
 .cv > a#summary + div { order: 2; }
 .cv > a#education + div { order: 3; }
 .cv > a#experience + div { order: 4; }
 
-/* Relabel the hardcoded "Website" row as Google Scholar */
-.cv table.table-cv tr:last-child td:first-child b,
-.cv table.table-cv tr:last-child td:last-child a {
-  font-size: 0;
-}
-.cv table.table-cv tr:last-child td:first-child b::after {
-  content: "Google Scholar";
-  font-size: 1.3rem;
-}
-.cv table.table-cv tr:last-child td:last-child a::after {
-  content: "View profile";
-  font-size: 1.3rem;
-}
-
-.cv table.table-cv tr:last-child td:first-child b::after {
-  content: "Google Scholar";
-  font-size: 1.3rem;
-}
-.cv table.table-cv tr:last-child td:last-child a::after {
-  content: "View profile";
-  font-size: 1.3rem;
-}
-
-/* Contact card: relabel hardcoded row names */
-.cv table.table-cv tr:nth-child(2) td:first-child b,
-.cv table.table-cv tr:last-child td:first-child b,
-.cv table.table-cv tr:last-child td:last-child a {
+/* Contact card: relabel the hardcoded "Professional Title" row */
+.cv table.table-cv tr:nth-child(2) td:first-child b {
   font-size: 0 !important;
 }
 .cv table.table-cv tr:nth-child(2) td:first-child b::after {
   content: "Address";
-  font-size: 1.3rem;
-}
-.cv table.table-cv tr:last-child td:first-child b::after {
-  content: "Google Scholar";
-  font-size: 1.3rem;
-}
-.cv table.table-cv tr:last-child td:last-child a::after {
-  content: "View profile";
-  font-size: 1.3rem;
-}
-
-/* Contact card: relabel hardcoded row names */
-.cv table.table-cv tr:nth-child(2) td:first-child b,
-.cv table.table-cv tr:last-child td:first-child b,
-.cv table.table-cv tr:last-child td:last-child a {
-  font-size: 0 !important;
-}
-.cv table.table-cv tr:nth-child(2) td:first-child b::after {
-  content: "Address";
-  font-size: 1.3rem;
-}
-.cv table.table-cv tr:last-child td:first-child b::after {
-  content: "Google Scholar";
-  font-size: 1.3rem;
-}
-.cv table.table-cv tr:last-child td:last-child a::after {
-  content: "View profile";
   font-size: 1.3rem;
 }
