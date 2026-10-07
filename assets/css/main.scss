@@ -114,3 +114,22 @@ body {
   content: "View profile";
   font-size: 1.3rem;
 }
+
+/* Contact card: relabel hardcoded row names */
+.cv table.table-cv tr:nth-child(2) td:first-child b,
+.cv table.table-cv tr:last-child td:first-child b,
+.cv table.table-cv tr:last-child td:last-child a {
+  font-size: 0 !important;
+}
+.cv table.table-cv tr:nth-child(2) td:first-child b::after {
+  content: "Address";
+  font-size: 1.3rem;
+}
+.cv table.table-cv tr:last-child td:first-child b::after {
+  content: "Google Scholar";
+  font-size: 1.3rem;
+}
+.cv table.table-cv tr:last-child td:last-child a::after {
+  content: "View profile";
+  font-size: 1.3rem;
+}
