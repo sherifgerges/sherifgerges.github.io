@@ -86,3 +86,17 @@ body {
 .cv > a#summary + div { order: 2; }
 .cv > a#education + div { order: 3; }
 .cv > a#experience + div { order: 4; }
+
+/* Relabel the hardcoded "Website" row as Google Scholar */
+.cv table.table-cv tr:last-child td:first-child b,
+.cv table.table-cv tr:last-child td:last-child a {
+  font-size: 0;
+}
+.cv table.table-cv tr:last-child td:first-child b::after {
+  content: "Google Scholar";
+  font-size: 1.3rem;
+}
+.cv table.table-cv tr:last-child td:last-child a::after {
+  content: "View profile";
+  font-size: 1.3rem;
+}
