@@ -62,6 +62,16 @@ cv:
         highlights:
           - "Advisor: Prof. Kai Zinn"
 
+    Selected Papers:
+      - bullet: "**Gerges, S.**, Straarup, N. C., El-Brolosy, M. A., Satterstrom, F. K., Kamitaki, N., Ling, E., Singh, T., Weissman, J. S., Berretta, S., Pan, J. Q., Finucane, H., Stock, C., Nissen, P., McCarroll, S. A., Daly, M. Integrating genetics and single cell biology reveals biological processes underlying neuropsychiatric disorders. *Manuscript in Review. (2026)*"
+      - bullet: "Nason, E., **Gerges, S.**, Satterstrom, F. K., Gorissen, B. L., Liao, R., Panagiotaropoulou, G., Guez, J., Autism Sequencing Consortium, Karczewski, K. J., Daly, M., Finucane, H. [Systematic identification of disease-associated 3D neighborhoods in protein structures](https://www.medrxiv.org/content/10.64898/2026.05.29.26354366.abstract). *medRxiv* (2026). In review."
+      - bullet: "Florio, M., Sumathipala, M. G., Kamitaki, N., **Gerges, S.**, Gebara, E., Chan, L., McCarroll, S. A. Functional RNA co-partitioning organizes the post-transcriptional landscape of the synapse. *Manuscript in preparation.*"
+      - bullet: "Autism Sequencing Consortium. Large-scale exome sequencing study implicates both developmental and functional changes in the neurobiology of autism. *Cell* (2020)."
+      - bullet: "Winer, B. Y., Shirvani-Dastgerdi, E., Bram, Y., Sellau, J., **Gerges, S.**, et al., Ploss, A. Preclinical assessment of antiviral combination therapy in a genetically humanized mouse model for hepatitis delta virus infection. *Science Translational Medicine* (2018)."
+      - bullet: "Al-Anzi, B., **Gerges, S.**, Olsman, N., Ormerod, C., Piliouras, G., Ormerod, J., Zinn, K. Modeling and analysis of modular structure in diverse biological networks. *Journal of Theoretical Biology* (2017)."
+      - bullet: "Al-Anzi, B., Arpp, P., **Gerges, S.** (equal contribution), Ormerod, C., Olsman, N., Zinn, K. Experimental and computational analysis of a large protein network that controls fat storage reveals the design principles of a signaling network. *PLoS Computational Biology* (2015)."
+      - bullet: "de Jong, Y. P., Dorner, M., Mommersteeg, M. C., Xiao, J. W., Balazs, A. B., Robbins, J. B., Winer, B., **Gerges, S.**, et al., Ploss, A. Broadly neutralizing antibodies abrogate established hepatitis C virus infection. *Science Translational Medicine* (2014)."
+
     Selected Talks:
       - bullet: "**American Society of Human Genetics (ASHG), 2025** - Uncovering molecular mechanisms of neuropsychiatric risk via functional genomics and AlphaFold 3"
       - bullet: "**American Society of Human Genetics (ASHG), 2019-2021** - Human single-cell transcriptomes identify cell types and states relevant to brain-related complex traits"
