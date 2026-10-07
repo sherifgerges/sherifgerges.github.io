@@ -2,7 +2,6 @@ cv:
   name: Sherif Gerges
   label: Analytic and Translational Genetics Unit, Massachusetts General Hospital, Richard B. Simches Research Center, 185 Cambridge Street, Boston, MA 02114
   email: sherif_gerges@g.harvard.edu
-  website: https://scholar.google.com/citations?user=RPi2kgoAAAAJ
 
   sections:
 
@@ -80,20 +79,12 @@ cv:
       - bullet: "**6th Neurological Disorders Summit, 2020** (plenary talk) - Human single-cell transcriptomes identify cell types and states relevant to brain-related complex traits"
 
     Honors & Awards:
-      - label: "2025"
-        details: American Society of Human Genetics Trainee Research Excellence Award (Finalist).
-      - label: "2023"
-        details: Princeton University IP Accelerator Award (HBV therapeutics).
-      - label: "2022"
-        details: Nucleate-Petri VC Startup Winner ($200,000 venture funding award)
-      - label: "2022"
-        details: John Maraganore Scientific Entrepreneurship Award (semi-finalist)
-      - label: "2022"
-        details: Harvard Innovation Lab Award in the Sciences.
-      - label: "2021"
-        details: BioNJ BioPartnering Company Presentation Award
-      - label: "2012"
-        details: NSF - Summer Honors Undergraduate Research Program (Harvard University).
-      - label: "2011"
-        details: Summer Undergraduate Research Fellowships (SURF) (Caltech).
+      - bullet: "**American Society of Human Genetics Trainee Research Excellence Award** (Finalist), 2025"
+      - bullet: "**Princeton University IP Accelerator Award** (HBV therapeutics), 2023"
+      - bullet: "**Nucleate-Petri VC Startup Winner** ($200,000 venture funding award), 2022"
+      - bullet: "**John Maraganore Scientific Entrepreneurship Award** (semi-finalist), 2022"
+      - bullet: "**Harvard Innovation Lab Award in the Sciences**, 2022"
+      - bullet: "**BioNJ BioPartnering Company Presentation Award**, 2021"
+      - bullet: "**NSF Summer Honors Undergraduate Research Program**, Harvard University, 2012"
+      - bullet: "**Summer Undergraduate Research Fellowship (SURF)**, Caltech, 2011"
 
