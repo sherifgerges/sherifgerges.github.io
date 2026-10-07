@@ -100,3 +100,17 @@ body {
   content: "View profile";
   font-size: 1.3rem;
 }
+
+/* Relabel the hardcoded "Website" row as Google Scholar */
+.cv table.table-cv tr:last-child td:first-child b,
+.cv table.table-cv tr:last-child td:last-child a {
+  font-size: 0;
+}
+.cv table.table-cv tr:last-child td:first-child b::after {
+  content: "Google Scholar";
+  font-size: 1.3rem;
+}
+.cv table.table-cv tr:last-child td:last-child a::after {
+  content: "View profile";
+  font-size: 1.3rem;
+}
