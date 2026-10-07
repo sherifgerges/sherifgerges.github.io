@@ -74,3 +74,15 @@ body {
 .cv > div { order: 3; }
 .cv > div:nth-of-type(1) { order: 1; }  /* contact card */
 .cv > div:nth-of-type(3) { order: 2; }  /* education card */
+
+/* Plugin hardcodes Experience first; reorder by section anchor */
+.cv {
+  display: flex;
+  flex-direction: column;
+}
+.cv > a.anchor { order: -1; }
+.cv > div { order: 9; }
+.cv > div:first-child { order: 1; }       /* contact */
+.cv > a#summary + div { order: 2; }
+.cv > a#education + div { order: 3; }
+.cv > a#experience + div { order: 4; }
