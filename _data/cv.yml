@@ -31,35 +31,41 @@ cv:
         start_date: 2025
         end_date: present
         highlights:
-          - "Advisors: Drs. Mark Daly & Steve McCarroll"
+          - "Advisors: Hilary Finucane, Mark Daly & Steve McCarroll"
+          - Developing structure-based statistical methods for interpreting rare missense variation in neuropsychiatric disease
+          - Lead a multi-institutional collaboration pairing CRISPR cellular models with biochemical assays to test variants from schizophrenia and ASD exome studies
 
       - company: Acurasset Therapeutics
         position: Co-founder
         start_date: 2022
         end_date: present
         highlights:
-          - Co-founded with Prof. Alexander Ploss; raised over $500,000 in venture capital and non-dilutive grants
+          - Co-founded with Prof. Alexander Ploss (Princeton University) to identify small-molecule inhibitors of an unexploited step in the HBV lifecycle
+          - Lead fundraising and operations; raised over $500,000 in venture capital and non-dilutive grants
 
       - company: Third Rock Ventures
         position: Computational Consultant
         start_date: 2020
         end_date: 2021
         highlights:
-          - Lead computational consultant for the founding team of Asher Bio
+          - Lead computational consultant for the founding team of Asher Bio.
+          - Built pipelines identifying cell-surface markers from single-cell RNA-seq; contributed to AB248, an engineered IL-2 immunotherapy
 
       - company: Princeton University
         position: Research Assistant
         start_date: 2014
         end_date: 2016
         highlights:
-          - "Advisor: Prof. Alexander Ploss"
+          - "Lab: Prof. Alexander Ploss"
+          - Engineered hepatitis B, C, and D virus strains capable of infecting humanized mouse models
 
       - company: California Institute of Technology
         position: Research Assistant
         start_date: 2012
         end_date: 2014
         highlights:
-          - "Advisor: Prof. Kai Zinn"
+          - "Lab: Prof. Kai Zinn"
+          - Modeled modular structure in biological networks across yeast proteomics, mouse brain connectivity, and the *C. elegans* connectome
 
     Selected Papers:
       - bullet: "**Gerges, S.**, Straarup, N. C., El-Brolosy, M. A., Satterstrom, F. K., Kamitaki, N., Ling, E., Singh, T., Weissman, J. S., Berretta, S., Pan, J. Q., Finucane, H., Stock, C., Nissen, P., McCarroll, S. A., Daly, M. Integrating genetics and single cell biology reveals biological processes underlying neuropsychiatric disorders. *Manuscript in Review. (2026)*"
