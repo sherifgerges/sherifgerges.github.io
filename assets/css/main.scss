@@ -86,3 +86,8 @@ body {
   content: "Address";
   font-size: 1.3rem;
 }
+/* Bold both first and last name */
+.post-title,
+.navbar-brand.title {
+  font-weight: 700 !important;
+}
