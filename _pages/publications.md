@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: 'Link to <a href="https://scholar.google.com/citations?user=RPi2kgoAAAAJ">Google Scholar</a> | <a href="https://orcid.org/0009-0006-1968-5195">ORCID</a>'
+description: '<span style="color: var(--global-theme-color)">Link to <a href="https://scholar.google.com/citations?user=RPi2kgoAAAAJ" style="color: inherit"><i class="ai ai-google-scholar"></i> Google Scholar</a> | <a href="https://orcid.org/0009-0006-1968-5195" style="color: inherit"><i class="ai ai-orcid"></i> ORCID</a></span>'
 nav: true
 nav_order: 2
 ---
