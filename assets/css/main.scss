@@ -91,3 +91,15 @@ body {
 .navbar-brand.title {
   font-weight: 700 !important;
 }
+
+/* Altmetric donut in the left column */
+.publications .row {
+  position: relative;
+}
+.publications .badges {
+  position: absolute;
+  left: 0;
+  top: 3.5rem;
+  width: 16%;
+  text-align: center;
+}
