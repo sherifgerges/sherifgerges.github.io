@@ -117,3 +117,15 @@ body {
 .publications .pub-year {
   color: #000 !important;
 }
+
+/* Journal tag on the right, donut on the left */
+@media (min-width: 576px) {
+  .publications .row > div.abbr {
+    order: 3;
+  }
+  .publications .row > div.col-sm-8,
+  .publications .row > div.col-sm-10 {
+    order: 2;
+    margin-left: 16.67%;
+  }
+}
